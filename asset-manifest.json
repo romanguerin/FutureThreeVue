@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1430015.css",
-    "main.js": "/static/js/main.cc71c67e.js",
-    "index.html": "/index.html",
-    "main.a1430015.css.map": "/static/css/main.a1430015.css.map",
-    "main.cc71c67e.js.map": "/static/js/main.cc71c67e.js.map"
+    "main.css": "/FutureThreeVue/static/css/main.a1430015.css",
+    "main.js": "/FutureThreeVue/static/js/main.cc71c67e.js",
+    "index.html": "/FutureThreeVue/index.html",
+    "main.a1430015.css.map": "/FutureThreeVue/static/css/main.a1430015.css.map",
+    "main.cc71c67e.js.map": "/FutureThreeVue/static/js/main.cc71c67e.js.map"
   },
   "entrypoints": [
     "static/css/main.a1430015.css",
